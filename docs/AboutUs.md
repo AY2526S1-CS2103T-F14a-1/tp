@@ -17,7 +17,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 [[homepage](http://www.comp.nus.edu.sg/~damithch)]
 [[github](https://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/mizzat03)]
 
 * Role: Project Advisor
 
@@ -26,16 +26,16 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/johndoe.png" width="200px">
 
 [[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/mizzat03)]
 
 * Role: Team Lead
 * Responsibilities: UI
 
-### Johnny Doe
+### Muhd Izzat
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/mizzat03.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](http://github.com/mizzat03)] [[portfolio](team/mizzat03.md)]
 
 * Role: Developer
 * Responsibilities: Data
@@ -45,7 +45,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/johndoe.png" width="200px">
 
 [[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/mizzat03)]
 
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
@@ -55,7 +55,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/johndoe.png" width="200px">
 
 [[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/mizzat03)]
 
 * Role: Developer
 * Responsibilities: UI
