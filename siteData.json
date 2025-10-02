@@ -11,7 +11,7 @@
         "hao-yang": "Hao Yang",
         "muhammad-izzat-bin-mohamed-rafiq": "Muhammad Izzat Bin Mohamed Rafiq",
         "saripalli-bhagat-sai-reddy": "Saripalli Bhagat Sai Reddy",
-        "james-doe": "James Doe"
+        "wu-chenxiao": "Wu Chenxiao"
       },
       "headingKeywords": {}
     },
@@ -152,14 +152,6 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
-      "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
-      },
-      "headingKeywords": {}
-    },
-    {
       "src": "team/mizzat03.md",
       "title": "mizzat03's Project Portfolio Page",
       "headings": {
@@ -170,6 +162,14 @@
     {
       "src": "team/nsohko.md",
       "title": "Sai's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/wucx-0.md",
+      "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
