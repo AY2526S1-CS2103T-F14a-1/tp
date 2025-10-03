@@ -38,12 +38,16 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
       "headings": {
         "foodbook-developer-guide": "FoodBook Developer Guide",
         "acknowledgements": "Acknowledgements",
         "product-scope": "Product Scope",
-        "user-stories-gfm": "User Stories (GFM)"
+        "user-stories": "User Stories",
+        "use-cases": "Use Cases",
+        "uc01-add-a-client": "UC01 – Add a client",
+        "uc02-edit-a-client": "UC02 – Edit a client",
+        "uc03-add-a-delivery-for-a-client": "UC03 – Add a delivery for a client",
+        "uc04-view-and-mark-deliveries-for-a-day": "UC04 – View and mark deliveries for a day"
       },
       "headingKeywords": {}
     },
