@@ -47,7 +47,16 @@
         "uc01-add-a-client": "UC01 – Add a client",
         "uc02-edit-a-client": "UC02 – Edit a client",
         "uc03-add-a-delivery-for-a-client": "UC03 – Add a delivery for a client",
-        "uc04-view-and-mark-deliveries-for-a-day": "UC04 – View and mark deliveries for a day"
+        "uc04-view-and-mark-deliveries-for-a-day": "UC04 – View and mark deliveries for a day",
+        "non-functional-requirements": "Non-Functional Requirements",
+        "performance": "Performance",
+        "usability": "Usability",
+        "reliability-and-amp-data-safety": "Reliability &amp; Data Safety",
+        "portability-constraint-portable": "Portability (Constraint-Portable)",
+        "data-integrity-and-amp-validation": "Data Integrity &amp; Validation",
+        "security-and-amp-privacy": "Security &amp; Privacy",
+        "maintainability": "Maintainability",
+        "glossary": "Glossary"
       },
       "headingKeywords": {}
     },
