@@ -122,6 +122,31 @@
       "headingKeywords": {}
     },
     {
+      "src": "diagrams/markdowntest.md",
+      "headings": {
+        "foodbook-user-guide": "FoodBook — User Guide",
+        "table-of-contents": "Table of Contents",
+        "introduction": "Introduction",
+        "target-users-and-amp-assumptions": "Target Users &amp; Assumptions",
+        "what-you-ll-accomplish-with-foodbook": "What You’ll Accomplish with FoodBook",
+        "quick-start": "Quick Start",
+        "how-to-read-this-guide": "How to Read This Guide",
+        "date-and-amp-time": "Date &amp; Time",
+        "ui-at-a-glance": "UI at a Glance",
+        "features": "Features",
+        "clients": "Clients",
+        "deliveries": "Deliveries",
+        "general-utilities": "General Utilities",
+        "data-files-and-amp-auto-save": "Data Files &amp; Auto-Save",
+        "faq": "FAQ",
+        "troubleshooting-and-amp-known-issues": "Troubleshooting &amp; Known Issues",
+        "command-summary": "Command Summary",
+        "glossary": "Glossary",
+        "attributions": "Attributions"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "index.md",
       "title": "",
       "headings": {
