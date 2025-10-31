@@ -61,6 +61,9 @@
         "uc04-view-and-mark-deliveries-for-a-day": "UC04 – View and mark deliveries for a day",
         "uc05-undo-last-change": "UC05 – Undo last change",
         "uc06-list-revenue-for-a-period": "UC06 – List revenue for a period",
+        "uc07-delete-a-client": "UC07 – Delete a client",
+        "uc08-delete-a-delivery": "UC08 – Delete a delivery",
+        "uc09-edit-a-delivery": "UC09 – Edit a delivery",
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary"
       },
