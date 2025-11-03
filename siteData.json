@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "headings": {
         "foodbook-developer-guide": "FoodBook Developer Guide",
-        "acknowledements": "Acknowledements",
+        "acknowledgements": "Acknowledgements",
         "1-setting-up-and-amp-getting-started": "1. Setting up &amp; Getting Started",
         "2-design": "2. Design",
         "architecture": "Architecture",
@@ -65,7 +65,12 @@
         "uc08-delete-a-delivery": "UC08 – Delete a delivery",
         "uc09-edit-a-delivery": "UC09 – Edit a delivery",
         "non-functional-requirements": "Non-Functional Requirements",
-        "glossary": "Glossary"
+        "glossary": "Glossary",
+        "appendix-instructions-for-manual-testing": "Appendix: Instructions for Manual Testing",
+        "a-minimal-test-flow": "A. Minimal Test Flow",
+        "b-mark-unmark": "B. Mark / Unmark",
+        "c-revenue": "C. Revenue",
+        "d-undo": "D. Undo"
       },
       "headingKeywords": {}
     },
